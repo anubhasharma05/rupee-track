@@ -1,0 +1,20 @@
+
+PROJECT STATEMENT
+
+This Python project is an Expense Tracker that helps users record, categorize, and analyze daily expenses in INR. It uses Pandas to process data, extract monthly patterns, and organize spending in a simple and offline format.
+
+ PROBLEM STATEMENT
+
+People often fail to track daily expenses effectively due to manual effort or complex apps. There is a need for a simple, customizable, INR-based tool to manage and analyze expenses without depending on external applications.
+
+ SCOPE OF THE PROJECT
+Load and process expense data from CSV
+Convert dates and extract monthly summary details
+Categorize expenses automatically
+Provide a basic structure for future additions like graphs or reports.
+
+ TARGET USERS
+Students learning Python and data handling
+Individuals wanting a simple offline expense tracker
+Teachers demonstrating data processing concepts
+Developers extending the tool into a full budgeting system
